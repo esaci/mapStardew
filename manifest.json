@@ -1,0 +1,13 @@
+{
+	"Name": "Big Four Corner Multiplayer",
+	"Author": "ELIAZS",
+	"Version": "1.0.0",
+	"Description": "Mod that modify the Big Four Corner map to be bigger.",
+	"UniqueID": "ELIAZS.BigFourCornerMultiplayer",
+	"UpdateKeys": [
+		"Nexus:???"
+	],
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	}
+}
